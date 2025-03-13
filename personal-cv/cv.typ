@@ -12,6 +12,8 @@
 )
 #let hr = line( length: 100%, stroke: 0.5pt + rgb("#131A28"))
 
+Backend Software Engineer with 5 years of experience in building scalable architectures, event-driven systems, and cloud-native applications using AWS, Go, and TypeScript. Specialized in fintech solutions and automation of business processes.
+
 
 = Experience
 #hr
@@ -20,14 +22,15 @@
   company: [XEPELIN],
   company-link: "https://xepelin.com/",
   title: [Software Engineer],
-  subtitle: [Full Stack],
+  subtitle: [Team: Onboarding & Identity Verification],
   date-range: [July 2023 - Present],
   location: [Santiago, Chile],
   items: (
-  [Led the integration of biometric validation with the Mexican Electoral System (INE) via a Nest.js microservice using SOAP, automating onboarding, reducing processing time, and preventing identity theft.],
-  [Contributed to developing a new document section for Xepelin’s client platform, reducing review time by 37%, using Nest.js, React.js, AWS, DynamoDB, and GitHub CodePipeline, and integrating with Niva via REST API.],
-  [Collaborated on developing new features for Xepelin's client onboarding and implemented A/B testing with Flagsmith to optimize the user experience, using Next.js, Nest.js, Express, and MySQL.],
-  [Managed a proof of concept to automate legal document reviews by using LangChain, Python, and OpenAI's API to extract data from PDFs.]
+  [Developed a Nest.js microservice for biometric validation with the Mexican Electoral System (INE) via SOAP, reducing processing time and preventing identity theft.],
+  [Optimized document validation workflows by integrating AWS services (Lambda, DynamoDB, S3), reducing manual processing time by 37%.],
+  [Implemented A/B testing with Flagsmith to enhance user onboarding, leveraging Next.js and Nest.js with MySQL.],
+  [Led a proof of concept using LangChain, Python, and OpenAI’s API to automate legal document reviews.],
+
   ),
 )
 
@@ -35,13 +38,13 @@
   company: [KUSHKI],
   company-link: "https://www.kushkipagos.com/en",
   title: [Software Engineer],
-  subtitle: [Full Stack],
+  subtitle: [Team: Transactions & Payments Infrastructure],
   date-range: [January 2022 - July 2023],
   location: [Quito, Ecuador],
   items: (
-    [Designed and implemented cloud-native architectures for cash-in, cash-out, and transfers using AWS services like Lambda, DynamoDB, S3, Step Functions, and SQS, reducing processing times by over 20%.],
-    [Built event-driven REST APIs with Go and Node.js, and developed micro-frontends for Kushki's Administration Panel using single-spa, Redux Toolkit, and React Testing Library.],
-    [Worked on ETL with Scala to process large daily transactions in AWS S3, improving the speed of the reconciliation process.],
+    [Designed event-driven architectures for cash-in, cash-out, and transfers using AWS Lambda, SQS, Step Functions, and DynamoDB, reducing processing time by 20%.],
+    [Built scalable REST APIs with Go and Node.js, handling high-concurrency financial transactions.],
+    [Developed ETL pipelines with Scala to process high-volume transaction data in AWS S3, improving reconciliation speed.],
     ),
 )
 
@@ -49,12 +52,12 @@
   company: [B89],
   company-link: "https://www.b89.io",
   title: [Software Engineer],
-  subtitle: [Full Stack],
+  subtitle: [Team: Internal Platforms & Services],
   date-range: [August 2021 - January 2022],
   location: [Lima, Peru],
   items: (
-    [Led the development of B89's Administration Panel, improving customer support with tools for managing credit lines, client status, cashback, and debt financing plans using React, Redux, Ant Design, and Axios. Also created a PoC for a scalable frontend architecture with micro frontends using Module Federation (Webpack 5) and single-spa.js.],
-    [Built REST APIs and gRPC services with Node.js (Moleculer.js) and Apache Kafka, leveraging an event-driven architecture for seamless communication between services.],
+   [Developed high-performance APIs and gRPC services with Node.js (Moleculer.js) and Apache Kafka for real-time event processing.],
+  [Architected and implemented a modular microservices infrastructure for banking operations.],
   ),
 )
 
@@ -62,13 +65,13 @@
   company: [DEUNA],
   company-link: "https://www.deuna.com/",
   title: [Software Engineer],
-  subtitle: [Full Stack],
+  subtitle: [Team: Checkout & Integrations],
   date-range: [May 2021 - August 2021],
   location: [Tegucigalpa, Honduras],
   items: (
-    [Enhanced Deuna's e-commerce platform by implementing full-text search with Typesense and developing a coupon application feature during checkout using React, TypeScript, and the Spree gem.],
-    [Built a new React application with TypeScript to enable real-time order delivery tracking.],
-  ),
+    [Optimized full-text search functionality using Typesense, enhancing search performance in e-commerce transactions.],
+    [Integrated real-time order tracking using a React & TypeScript backend, ensuring seamless logistics updates.],
+ ),
 )
 
 #job(
@@ -110,7 +113,10 @@
 = Languages and technologies
 #hr
 
-- Go, TypeScript, Python, Ruby, Node.js, HTML, CSS, JavaScript, SQL, C++, Scala, Typst.
-- Ruby on Rails, React, Next.js, NestJS, Express, Rxjs, Docker, AWS (EC2, Lambda, S3, SQS, Step Functions, Cloudwatch, DynamoDB), MongoDB, PostgreSQL,  Jest, Cypress, Tailwind, git, Large Language Models (ChatGPT), LangChain.
-- English (B2), Spanish (Native)
+- *Backend Technologies*: Go, TypeScript, Python, Ruby, Node.js, Scala, C++.
+- *Frameworks & Architectures*: NestJS, Express, Ruby on Rails, Moleculer.js, gRPC, REST API, event-driven architecture  
+- *Databases & Storage*: PostgreSQL, DynamoDB, MongoDB, AWS S3  
+- *Cloud & DevOps*: AWS (Lambda, EC2, S3, SQS, Step Functions, Cloudwatch), Docker  
+- *Other Tools*: Jest, Cypress, RxJS, Nats ,Kafka, LangChain 
+- *Languages*: English (B2), Spanish (Native)
 
