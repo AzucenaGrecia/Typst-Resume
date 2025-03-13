@@ -23,7 +23,7 @@ Backend Software Engineer with 5 years of experience in building scalable archit
   company-link: "https://xepelin.com/",
   title: [Software Engineer],
   subtitle: [Team: Onboarding & Identity Verification],
-  date-range: [July 2023 - Present],
+  date-range: [July 2023 - March 2025],
   location: [Santiago, Chile],
   items: (
   [Developed a Nest.js microservice for biometric validation with the Mexican Electoral System (INE) via SOAP, reducing processing time and preventing identity theft.],
