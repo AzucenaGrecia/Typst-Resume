@@ -12,7 +12,7 @@
 )
 #let hr = line( length: 100%, stroke: 0.5pt + rgb("#131A28"))
 
-Backend Software Engineer with 5 years of experience in building scalable architectures, event-driven systems, and cloud-native applications using AWS, Go, and TypeScript. Specialized in fintech solutions and automation of business processes.
+Backend Software Engineer with 4 years of experience in building scalable architectures, event-driven systems, and cloud-native applications using AWS, Go, and TypeScript. Specialized in fintech solutions and automation of business processes.
 
 
 = Experience
