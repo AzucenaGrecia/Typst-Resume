@@ -41,7 +41,7 @@
   items: (
     [Designed event-driven architectures with AWS Lambda, SQS, Step Functions, and DynamoDB, alongside ETL pipelines in Scala for high-volume transaction processing, reducing processing time by 20% and improving reconciliation speed.],
     [Built scalable RESTful APIs with Go and Node.js (Express), efficiently handling high-concurrency financial transactions.],
-    [Developed React microfrontends to enhance the client dashboard, enabling transaction tracking and payment gateway management.],
+    [Developed React microfrontends for client dashboard, enabling transaction tracking and payment gateway configuration.],
     ),
 )
 
