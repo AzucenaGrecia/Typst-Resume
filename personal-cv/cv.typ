@@ -25,7 +25,7 @@
   location: [Santiago, Chile],
   items: (
   [Built a Nest.js microservice for INE biometric validation via SOAP, reducing processing from 5 hours to 3 minutes and enhancing security. Deployed with Docker/Kubernetes, CI/CD via GitHub Actions, and Grafana monitoring.],
-  [Optimized document validation workflows by integrating AWS services (Lambda, DynamoDB, S3), reducing manual processing time by 37%.],
+  [Optimized document validation workflows by integrating AWS services (Lambda, DynamoDB, S3) and enhancing the UI of both the client and internal platforms using Next.js and React, reducing manual processing time by 37%.],
   [Implemented A/B testing with Flagsmith to enhance user onboarding, leveraging Next.js and Nest.js with MySQL.],
   [Led a proof of concept using LangChain, Python, and OpenAI’s API to automate legal document reviews.],
   ),
@@ -39,9 +39,9 @@
   date-range: [January 2022 - July 2023],
   location: [Quito, Ecuador],
   items: (
-    [Designed event-driven architectures for cash-in, cash-out, and transfers using AWS Lambda, SQS, Step Functions, and DynamoDB, reducing processing time by 20%.],
-    [Built scalable RESTful APIs with Go and Node.js with Express, handling high-concurrency financial transactions.],
-    [Developed ETL pipelines with Scala to process high-volume transaction data in AWS S3, improving reconciliation speed.],
+    [Designed event-driven architectures with AWS Lambda, SQS, Step Functions, and DynamoDB, alongside ETL pipelines in Scala for high-volume transaction processing, reducing processing time by 20% and improving reconciliation speed.],
+    [Built scalable RESTful APIs with Go and Node.js (Express), efficiently handling high-concurrency financial transactions.],
+    [Developed React microfrontends to enhance the client dashboard, enabling transaction tracking and payment gateway management.],
     ),
 )
 
@@ -53,8 +53,8 @@
   date-range: [August 2021 - January 2022],
   location: [Lima, Peru],
   items: (
-    [Led the development of B89's Administration Panel, improving customer support with tools for managing credit lines, client status, cashback, and debt financing plans using React, Redux, Ant Design, and Axios. Also created a PoC for a scalable frontend architecture with micro frontends using Module Federation (Webpack 5) and single-spa.js.],
-    [Built REST APIs and gRPC services with Node.js (Moleculer.js) and Apache Kafka, leveraging an event-driven architecture for seamless communication between services.],
+    [Led the development of B89's Administration Panel with React, enhancing customer support for credit lines, client status, cashback, and debt management. Built a PoC for scalable microfrontends with Module Federation and single-spa.js.],
+    [Developed REST APIs and gRPC services with Node.js (Moleculer.js) and Apache Kafka, enabling seamless event-driven communication between services.],
   ),
 )
 
