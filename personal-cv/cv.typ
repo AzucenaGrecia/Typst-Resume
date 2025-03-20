@@ -24,10 +24,9 @@
   date-range: [July 2023 - Present],
   location: [Santiago, Chile],
   items: (
-  [Led the integration of biometric validation with the Mexican Electoral System (INE) via a Nest.js microservice using SOAP, automating onboarding, reducing processing time, and preventing identity theft.],
-  [Contributed to developing a new document section for Xepelin’s client platform, reducing review time by 37%, using Nest.js, React.js, AWS, DynamoDB, and GitHub CodePipeline, and integrating with Niva via REST API.],
+  [Led the integration of biometric validation with the Mexican Electoral System (INE) via a Nest.js microservice using SOAP protocols, reducing processing time from 5 hours to 3 minutes, and preventing identity theft. Implemented CI/CD using GitHub Actions with Docker/Kubernetes deployment and Grafana for real-time monitoring.],
+  [Contributed to atomize the review of legal documents, reducing review time by 37%, using Nest.js, React.js, AWS, DynamoDB, and GitHub CodePipeline, and integrating with Niva via REST API.],
   [Collaborated on developing new features for Xepelin's client onboarding and implemented A/B testing with Flagsmith to optimize the user experience, using Next.js, Nest.js, Express, and MySQL.],
-  [Managed a proof of concept to automate legal document reviews by using LangChain, Python, and OpenAI's API to extract data from PDFs.]
   ),
 )
 
@@ -103,32 +102,18 @@
 
 - *Bachelor of Science in Industrial Engineering*, University of Engineering and Technology (UTEC). #h(1fr) *2013-2018*
 - *Codeable Bootcamp*, Intensive Full Stack web development education program. #h(1fr) *2021*
+- *NestJS + Microservices: Scalable and Modular Applications*, DevTalles Academy. #h(1fr) *2025/03* 
 - *Software Architecture: REST API Design*, Udemy. #h(1fr) *2023/03*
 - *Introduction on Serverless, Lambdas y Api Gateway con AWS*, Udemy. #h(1fr) *2022/03*
-- *ReactiveX - RxJs*, Udemy. #h(1fr) *2022/02*
 
 = Languages and technologies
 #hr
 
-- Go, TypeScript, Python, Ruby, Node.js, HTML, CSS, JavaScript, SQL, C++, Scala, Typst.
-- Ruby on Rails, React, Next.js, NestJS, Express, Rxjs, Docker, AWS (EC2, Lambda, S3, SQS, Step Functions, Cloudwatch, DynamoDB), MongoDB, PostgreSQL,  Jest, Cypress, Tailwind, git, Large Language Models (ChatGPT), LangChain.
-- English (B2), Spanish (Native)
-
-= Education and certifications
-#hr
-
-- *Bachelor of Science in Industrial Engineering*, University of Engineering and Technology (UTEC). #h(1fr) *2013-2018*
-- *Codeable Bootcamp*, Intensive Full Stack web development education program. #h(1fr) *2021*
-- *Software Architecture: REST API Design*, Udemy. #h(1fr) *2023/03*
-- *Introduction on Serverless, Lambdas y Api Gateway con AWS*, Udemy. #h(1fr) *2022/03*
-- *ReactiveX - RxJs*, Udemy. #h(1fr) *2022/02*
-
-= Languages and technologies
-#hr
-
-- *Backend Technologies*: Go, TypeScript, Python, Ruby, Node.js, Scala, C++.
-- *Frameworks & Architectures*: NestJS, Express, Ruby on Rails, Moleculer.js, gRPC, REST API, event-driven architecture  
-- *Databases & Storage*: PostgreSQL, DynamoDB, MongoDB, AWS S3  
-- *Cloud & DevOps*: AWS (Lambda, EC2, S3, SQS, Step Functions, Cloudwatch), Docker  
-- *Other Tools*: Jest, Cypress, RxJS, Nats ,Kafka, LangChain 
-- *Languages*: English (B2), Spanish (Native)
+- *Backend Technologies*:  Node.js, TypeScript, Python, Go, Ruby, Scala.
+- *Frontend Technologies*: React, Next.js, TypeScript, HTML, CSS, JavaScript, Tailwind.
+- *Frameworks & Architectures*: NestJS, Express, Ruby on Rails, Moleculer.js, gRPC, RESTful API's, SOAP.
+- *Databases*: PostgreSQL, DynamoDB, MongoDB.
+- *Cloud & DevOps*: AWS (Lambda, EC2, S3, SQS, Step Functions, Cloudwatch), Docker, Kubernetes, GitHub, GitLab.
+- *Testing & CI/CD*: Jest, Cypress, GitHub Actions.
+- *Other Tools*: Nats ,Kafka, LangChain.
+- *Languages*: English (C1), Spanish (Native)
