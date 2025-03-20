@@ -49,7 +49,7 @@
   company: [B89],
   company-link: "https://www.b89.io",
   title: [Software Engineer],
-  subtitle: [Full Stack],
+  subtitle: [Team: Internal Platforms & Services],
   date-range: [August 2021 - January 2022],
   location: [Lima, Peru],
   items: (
@@ -62,7 +62,7 @@
   company: [DEUNA],
   company-link: "https://www.deuna.com/",
   title: [Software Engineer],
-  subtitle: [Full Stack],
+  subtitle: [Team: Checkout & Integrations],
   date-range: [May 2021 - August 2021],
   location: [Tegucigalpa, Honduras],
   items: (
@@ -110,10 +110,10 @@
 = Languages and technologies
 #hr
 
-- *Backend Technologies*:  Node.js, TypeScript, Python, Go, Ruby, Scala.
-- *Frontend Technologies*: React, Next.js, TypeScript, HTML, CSS, JavaScript, Tailwind.
-- *Frameworks & Architectures*: NestJS, Express, Ruby on Rails, Moleculer.js, gRPC, RESTful API's, SOAP.
-- *Databases*: PostgreSQL, DynamoDB, MongoDB.
-- *Cloud & DevOps*: AWS (Lambda, EC2, S3, SQS, Step Functions, Cloudwatch), Docker, Kubernetes, GitHub, GitLab.
-- *Other Tools*: Nats ,Kafka, GitHub Actions, LangChain,Jest, Cypress.
+- *Backend:* Node.js, TypeScript, Python, Go, Ruby, Scala; NestJS, Express, RoR, Moleculer.js; gRPC, RESTful APIs, SOAP.
+- *Frontend:* React, Next.js, TypeScript, HTML, CSS, JavaScript, Tailwind.
+- *Databases:* PostgreSQL, DynamoDB, MongoDB.
+- *Cloud & DevOps:* AWS (Lambda, EC2, S3, SQS, Step Functions, CloudWatch), Docker, Kubernetes.
+- *Testing & CI/CD:* Jest, Cypress, GitHub Actions.
+- *Messaging & AI:* NATS, Kafka, LangChain.
 - *Languages*: English (C1), Spanish (Native)
