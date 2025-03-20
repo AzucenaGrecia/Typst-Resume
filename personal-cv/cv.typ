@@ -20,13 +20,14 @@
   company: [XEPELIN],
   company-link: "https://xepelin.com/",
   title: [Software Engineer],
-  subtitle: [Full Stack],
-  date-range: [July 2023 - Present],
+  subtitle: [Team: Onboarding & Identity Verification],
+  date-range: [July 2023 - March 2025],
   location: [Santiago, Chile],
   items: (
-  [Led the integration of biometric validation with the Mexican Electoral System (INE) via a Nest.js microservice using SOAP protocols, reducing processing time from 5 hours to 3 minutes, and preventing identity theft. Implemented CI/CD using GitHub Actions with Docker/Kubernetes deployment and Grafana for real-time monitoring.],
-  [Contributed to atomize the review of legal documents, reducing review time by 37%, using Nest.js, React.js, AWS, DynamoDB, and GitHub CodePipeline, and integrating with Niva via REST API.],
-  [Collaborated on developing new features for Xepelin's client onboarding and implemented A/B testing with Flagsmith to optimize the user experience, using Next.js, Nest.js, Express, and MySQL.],
+  [Built a Nest.js microservice for INE biometric validation via SOAP, reducing processing from 5 hours to 3 minutes and enhancing security. Deployed with Docker/Kubernetes, CI/CD via GitHub Actions, and Grafana monitoring.],
+  [Optimized document validation workflows by integrating AWS services (Lambda, DynamoDB, S3), reducing manual processing time by 37%.],
+  [Implemented A/B testing with Flagsmith to enhance user onboarding, leveraging Next.js and Nest.js with MySQL.],
+  [Led a proof of concept using LangChain, Python, and OpenAI’s API to automate legal document reviews.],
   ),
 )
 
@@ -34,13 +35,13 @@
   company: [KUSHKI],
   company-link: "https://www.kushkipagos.com/en",
   title: [Software Engineer],
-  subtitle: [Full Stack],
+  subtitle: [Team: Transactions & Payments Infrastructure],
   date-range: [January 2022 - July 2023],
   location: [Quito, Ecuador],
   items: (
-    [Designed and implemented cloud-native architectures for cash-in, cash-out, and transfers using AWS services like Lambda, DynamoDB, S3, Step Functions, and SQS, reducing processing times by over 20%.],
-    [Built event-driven REST APIs with Go and Node.js, and developed micro-frontends for Kushki's Administration Panel using single-spa, Redux Toolkit, and React Testing Library.],
-    [Worked on ETL with Scala to process large daily transactions in AWS S3, improving the speed of the reconciliation process.],
+    [Designed event-driven architectures for cash-in, cash-out, and transfers using AWS Lambda, SQS, Step Functions, and DynamoDB, reducing processing time by 20%.],
+    [Built scalable RESTful APIs with Go and Node.js with Express, handling high-concurrency financial transactions.],
+    [Developed ETL pipelines with Scala to process high-volume transaction data in AWS S3, improving reconciliation speed.],
     ),
 )
 
@@ -114,6 +115,5 @@
 - *Frameworks & Architectures*: NestJS, Express, Ruby on Rails, Moleculer.js, gRPC, RESTful API's, SOAP.
 - *Databases*: PostgreSQL, DynamoDB, MongoDB.
 - *Cloud & DevOps*: AWS (Lambda, EC2, S3, SQS, Step Functions, Cloudwatch), Docker, Kubernetes, GitHub, GitLab.
-- *Testing & CI/CD*: Jest, Cypress, GitHub Actions.
-- *Other Tools*: Nats ,Kafka, LangChain.
+- *Other Tools*: Nats ,Kafka, GitHub Actions, LangChain,Jest, Cypress.
 - *Languages*: English (C1), Spanish (Native)
