@@ -114,3 +114,21 @@
 - Ruby on Rails, React, Next.js, NestJS, Express, Rxjs, Docker, AWS (EC2, Lambda, S3, SQS, Step Functions, Cloudwatch, DynamoDB), MongoDB, PostgreSQL,  Jest, Cypress, Tailwind, git, Large Language Models (ChatGPT), LangChain.
 - English (B2), Spanish (Native)
 
+= Education and certifications
+#hr
+
+- *Bachelor of Science in Industrial Engineering*, University of Engineering and Technology (UTEC). #h(1fr) *2013-2018*
+- *Codeable Bootcamp*, Intensive Full Stack web development education program. #h(1fr) *2021*
+- *Software Architecture: REST API Design*, Udemy. #h(1fr) *2023/03*
+- *Introduction on Serverless, Lambdas y Api Gateway con AWS*, Udemy. #h(1fr) *2022/03*
+- *ReactiveX - RxJs*, Udemy. #h(1fr) *2022/02*
+
+= Languages and technologies
+#hr
+
+- *Backend Technologies*: Go, TypeScript, Python, Ruby, Node.js, Scala, C++.
+- *Frameworks & Architectures*: NestJS, Express, Ruby on Rails, Moleculer.js, gRPC, REST API, event-driven architecture  
+- *Databases & Storage*: PostgreSQL, DynamoDB, MongoDB, AWS S3  
+- *Cloud & DevOps*: AWS (Lambda, EC2, S3, SQS, Step Functions, Cloudwatch), Docker  
+- *Other Tools*: Jest, Cypress, RxJS, Nats ,Kafka, LangChain 
+- *Languages*: English (B2), Spanish (Native)
