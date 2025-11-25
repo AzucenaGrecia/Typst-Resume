@@ -17,6 +17,18 @@
 #hr
 
 #job(
+  company: [HYPER PROOF],
+  company-link: "https://hyperproof.io/",
+  title: [Software Engineer],
+  subtitle: [Backend],
+  date-range: [July 2025 - Present],
+  location: [Remote, US],
+  items: (
+    [Improved and maintained Hyperproof integrations using TypeScript, Node.js, Azure, a declarative integration framework, and AI tools (e.g., Codex), ensuring reliable data sync and resolving complex issues across connectors like Orca Security, Coupa, and Okta.],
+    ),
+)
+
+#job(
   company: [XEPELIN],
   company-link: "https://xepelin.com/",
   title: [Software Engineer],
@@ -84,18 +96,6 @@
   ),
 )
 
-#job(
-  company: [MEDICAL CENTER OSI],
-  company-link: "https://www.centromedicoosi.com/",
-  title: [Web Developer],
-  subtitle: [Freelance],
-  date-range: [May 2020 - October 2020],
-  location: [Lima, Peru],
-  items: (
-    [Created an online form for patient registration using HTML, CSS, JavaScript, and Google Apps Script, saving staff time.],
-    [Worked with the UX team to gather feedback and design mockups for new website pages using HTML5, CSS, and JavaScript.],
-  ),
-)
 // #pagebreak()
 
 = Education and certifications
