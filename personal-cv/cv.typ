@@ -33,7 +33,7 @@
   company-link: "https://xepelin.com/",
   title: [Software Engineer],
   subtitle: [Full Stack],
-  date-range: [July 2023 - Present],
+  date-range: [July 2023 - January 2025],
   location: [Santiago, Chile],
   items: (
   [Led the integration of biometric validation with the Mexican Electoral System (INE) via a Nest.js microservice using SOAP, automating onboarding, reducing processing time, and preventing identity theft.],
