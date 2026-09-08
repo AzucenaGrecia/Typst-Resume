@@ -14,8 +14,7 @@
 
 Senior Full Stack Software Engineer with 5+ years building production web products with
 *React, TypeScript and Next.js*. Currently founding engineer at a B2B SaaS serving
-30+ paying customers across Peru and Mexico, responsible for the whole product: frontend
-architecture and design system, REST APIs, and third-party integrations. Fully remote
+30+ paying customers across Peru and Mexico. Fully remote
 since 2021 across US, Chilean and Ecuadorian teams. English B2.
 
 = Experience
